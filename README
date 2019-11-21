@@ -1,0 +1,20 @@
+#AQEM Processing Layer Ardunio README
+Code for arduino the, processing layer microcontroller
+
+##Hardware Used
+Ardunio Mega
+Logic level converter
+LCD
+Button
+Commicaitons notification LED
+Senors
+- BME/CSS
+- SPEC(4)
+- CO
+- UV
+- SPS30
+
+##Usage
+Componet wiring guide is contained in the repo, title "Wiring guide."
+
+This code is designed to be a out of the box software. Upload to the arduio and go. No editing is required.
